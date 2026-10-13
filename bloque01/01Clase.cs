@@ -13,7 +13,7 @@ partial class Program
 
        car1.MostrarDatos();
 
-       Vehiculo BYD=new Vehiculo{Marca="BYD", Modelo="Seagull", Anio=2025};
+       Vehiculo BYD=new Vehiculo{Modelo="Seagull", Marca="BYD", Anio=2025};
        Vehiculo Ford=new Vehiculo("Ford", "Fiesta", 2014);
 
        BYD.MostrarDatos();

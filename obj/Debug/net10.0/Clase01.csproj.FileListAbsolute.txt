@@ -12,3 +12,4 @@ C:\Users\respin\Documents\documentos\CursoProgramacionOrientadaaObjetos\clase01\
 C:\Users\respin\Documents\documentos\CursoProgramacionOrientadaaObjetos\clase01\Clase01\obj\Debug\net10.0\Clase01.pdb
 C:\Users\respin\Documents\documentos\CursoProgramacionOrientadaaObjetos\clase01\Clase01\obj\Debug\net10.0\Clase01.genruntimeconfig.cache
 C:\Users\respin\Documents\documentos\CursoProgramacionOrientadaaObjetos\clase01\Clase01\obj\Debug\net10.0\ref\Clase01.dll
+C:\Users\respin\Documents\documentos\CursoProgramacionOrientadaaObjetos\clase01\Clase01\obj\Debug\net10.0\Clase01.sourcelink.json

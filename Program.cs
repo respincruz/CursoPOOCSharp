@@ -10,6 +10,9 @@ partial class Program
         #region 03Calculadora
         //Calculadora();
         #endregion
-        Clases();
+       Constructores();
+       GC.Collect();
+       GC.WaitForPendingFinalizers();
+
     }
 }

@@ -18,6 +18,7 @@ partial class Program
                 break;
             }
             count++;
+            int numero=int.Parse(Console.ReadLine()!);
         }
     }
 }
