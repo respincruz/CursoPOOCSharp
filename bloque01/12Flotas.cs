@@ -10,7 +10,7 @@ partial class Program
     {
         Bus BMW=new Bus("BMW", "B-200", 2020, 5000, 15_000 );
         Bus Mercedes = new Bus("Mercedes", "M-100", 2024, 6500, 40_000);
-        Bus Hino=new Bus("Hino", "H300",2023, 7000, 30_000 );
+        Bus Hino=new Bus("Hino", "B-200", 2020, 5000, 15_000 );
 
 
         Flota flota=new();
@@ -25,8 +25,8 @@ partial class Program
         Hino.DistanciaManejo(650);
 
         flota.ShowFlota();
-        Hino=BMW;
-        Console.WriteLine($"{BMW.GetHashCode()}");
+       // Hino=BMW;
+        Console.WriteLine($"{BMW.Equals(Hino)}");
 
         /*foreach(var unidad in flota)
         {
